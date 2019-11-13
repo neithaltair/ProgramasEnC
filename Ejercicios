@@ -1,0 +1,40 @@
+2.16 = Introducir dos numeros, retornar suma, resta, mult. division cociente y modulo0.
+
+2.17 = Imprimir los numeros del 1 al 4 con diferentes formas de usar el printf. 
+
+2.18 = Leer dos enteros e imprimir cual es mayor o si son iguales.
+
+2.19 = Leer tres enteros e imprimir suma, promedio, producto, mayor y menor.
+
+2.20 = Calcular diametro, circunferencia y area de un circulo. 
+
+2.25 = Imprimir iniciales. 
+
+2.30 = Leer un numero de 5 digitos, separar sus digitos e imprmirlos con 3 espacios en medio. 
+
+AverageProgram = hace calculo de promedio, usa sentinela, formato de impresion de float
+		%.2f while e if. 
+
+3.17 = Desarrllar un programa en c que introduzca las millas manejadas y los galones utilzados
+	para cada tanque. el programa debe calcular y desplegar las millas por galon obtenidas
+	de cada tanque , el programa al finalizar debe imprimir las millas por galon
+	combinadas, obtenida de todos los tanques. 
+	uso de CAST (float)
+
+3.18 = Desarrollar un programa que determine si un cliente de una tienda ha excedido el limite
+	de crdito en una cuenta de cargo.
+	uso de 
+	balance = (saldoinicial + cargos - creditos) y determinar si el balance excede el 
+	limite de credito del cliente, de ser asi imprimir el numero de cuenta del cliente
+	el limite de credito el balance y un mensaje de que excedio el limite
+
+3.19 = en una tienda se requiere saber cuanto se le debe pagar al empleado teniendo en cuenta
+	que para obtener este salario, se tiene en cuenta el 9% de comision de las ventas 
+	y 200 que se dan por semana. 
+
+3.20 = El interes de un prestamo se calcula mediante la formula interes = Principal * Rate * Day
+	/365, calcular y desplegar el interes simple para cada prestamo. 
+
+	
+3.23 = Programa que imprima los numeros del 1 al 10 con tres espacios de distancia en la misma 
+	linea usando ciclos
