@@ -35,6 +35,10 @@ AverageProgram = hace calculo de promedio, usa sentinela, formato de impresion d
 3.20 = El interes de un prestamo se calcula mediante la formula interes = Principal * Rate * Day
 	/365, calcular y desplegar el interes simple para cada prestamo. 
 
+3.21 = Determinar la nomina bruta para cada uno de varios empleados, se paga tiempo normal para 
+	las primeras 40 horas trabajadas de cada empleado y se paga tiempo y medio para todas
+	las hotas trabajadas en exceso de 40 horas.
 	
 3.23 = Programa que imprima los numeros del 1 al 10 con tres espacios de distancia en la misma 
 	linea usando ciclos
+
