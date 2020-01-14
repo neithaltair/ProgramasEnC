@@ -1,0 +1,15 @@
+git clone 
+
+"create a local copy repo"
+git clone /path/to/repository
+
+git add <filename> 
+
+git add . 
+
+git commit -"Commit message"
+
+git push origin master 
+
+
+
