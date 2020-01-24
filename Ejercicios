@@ -42,3 +42,29 @@ AverageProgram = hace calculo de promedio, usa sentinela, formato de impresion d
 3.23 = Programa que imprima los numeros del 1 al 10 con tres espacios de distancia en la misma 
 	linea usando ciclos
 
+3.24 = Programa que lee una cantidad de numeros e imprime el mayor de los numeros ingresados
+
+3.25 = Imprime una tabla de valores(tabla multiplicar) establecida usando tabulador \t
+
+3.26 = Imprime otra tabla de valores con tabulador 
+
+3.30 = Imprime codigo del libro 
+
+3.31 = Imprime signos diferentes segun los numeros ingresados por el usuario.
+
+3.32 = Segun valores ingresados programa imprime diferentes caracteres. 
+
+3.33 = Escribir un programa que lea el lado de un cuadrado y a continuacion lo imprima en forma de asteriscos. 
+
+	****
+	****
+	****
+	****
+
+3.34 = Modifica el programa anterior para imprimir un cuadrado hueco. 
+	****
+	*  *
+	*  *
+	****
+
+
